@@ -1,4 +1,4 @@
-# performance_metrics_for_binary_classification
+# Performance metrics for binary classification
 
 This repository contains the code used to generate examples for <a class="reference external" href="https://www.google.com">this LinkedIn Article</a>.
 
