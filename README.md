@@ -1,6 +1,6 @@
 # Performance metrics for binary classification
 
-This repository contains the code used to generate examples for <a class="reference external" href="https://www.google.com">this LinkedIn Article</a>.
+This repository contains the R code used to generate examples for <a class="reference external" href="https://www.google.com">this LinkedIn Article</a>.
 
 I generated three situations of a binary classification problem, and compared different performance metrics. 
 
